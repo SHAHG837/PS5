@@ -1,0 +1,6 @@
+{
+  "name": "Murtaza Shah Ji App",
+  "description": "PS5 Controller & Gamepad Companion: Virtual DualSense gamepad, motion steering, macro button mapping, Bluetooth tester, and cross-platform bridge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
